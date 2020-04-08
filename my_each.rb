@@ -1,5 +1,4 @@
-name = ["Toya","Mario","Marquise","Makai"]
-my_each(name) do |i|
-  puts i 
-end 
-
+collection = [1, 2, 3, 4]
+my_each(collection) do |i|
+  puts i
+end
